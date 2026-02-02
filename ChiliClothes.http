@@ -1,0 +1,6 @@
+@ChiliClothes_HostAddress = http://localhost:5003
+
+GET {{ChiliClothes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
